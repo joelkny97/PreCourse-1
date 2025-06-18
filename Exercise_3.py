@@ -1,3 +1,6 @@
+# Time Complexity: O(n) for append, find, and remove operations
+# Space Complexity: O(n) where n is the number of elements in the list
+
 class ListNode:
     """
     A node in a singly-linked list.
